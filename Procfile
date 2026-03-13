@@ -1,0 +1,1 @@
+web: gunicord my_project.wsgi
